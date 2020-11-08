@@ -1,0 +1,2 @@
+2020/11/06 19:00:34 [error] 21222#21222: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 123.126.22.222, server: 101.200.206.214, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "101.200.206.214"
+2020/11/06 19:00:36 [error] 21222#21222: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 123.126.22.222, server: 101.200.206.214, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "101.200.206.214"
